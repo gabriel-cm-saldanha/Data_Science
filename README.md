@@ -12,6 +12,9 @@ Tive contato com python na faculdade e me interessei em programação e algoritm
 # Projetos
 
 [Airbnb Data Analysis](https://github.com/gabriel-cm-saldanha/AirbnbAnalysis)
+
 [Covid 19 Analysis](https://github.com/gabriel-cm-saldanha/Covid19-Analysis)
+
 [Credi Card Fraud Detection](https://github.com/gabriel-cm-saldanha/Credit-Card-Fraud-Detection)
+
 [Churn Telco Analysis]
